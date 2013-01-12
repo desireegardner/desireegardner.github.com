@@ -1,0 +1,29 @@
+	#main {border-left: 1px solid #669966;
+		float: right; 
+		width: 70%; 
+		padding-left: 20px;
+		}
+
+h1 {color: #99CC99;}
+
+div {color: #336666;}
+
+h2, h3 {color: #669966;}
+
+li.animals {color: #006699;}
+
+#nav {float: left; width: 10%; 
+	padding-left: 25px;}
+
+#footer {clear: both;}
+#desiree {float: left; margin: 0px 15px 0px 0px}
+#header {padding-left: 15px; 
+	padding-top: 15px;}
+
+#headercontainer {padding: 15px; 
+	background: #ccffcc; 
+
+	}
+.clear {clear: both;}
+
+.headertext {margin-top: 25px;}
